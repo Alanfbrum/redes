@@ -37,9 +37,10 @@ section#telefone{
 iframe#tela{
     border-radius: 20px;
     position: relative;
+    background-color: darkred;
     top: 17px;
     left: 20px;
-    width: 332px;
+    width: 330px;
     height: 720px;
 }
 
